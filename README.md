@@ -14,7 +14,7 @@ Cada integrante do grupo deverá realizar as seguintes tarefas:
 
   1. **📥 Clonar este repositório em sua máquina local**.
   2. **📂 Buscar os dados/arquivos do repositório remoto**.
-  3. **✍️ Inserir seu nome completo ao fim do arquivo `grupo.txt`** que já havia sido criado pelo dono do repositório (nomes em sequência, um em cada linha).
+  3. **✍️ Inserir seu nome completo ao fim do arquivo `grupo.txt`** (nomes em sequência, um em cada linha).
   4. **💾 Fazer commit/consolidar no repositório local**.
   5. **🚀 Enviar de volta para o repositório remoto**.
 
